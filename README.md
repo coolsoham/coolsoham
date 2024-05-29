@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @coolsoham
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate on java related projects
+- 💞️ I’m looking to collaborate on web developement project 
 - 📫 How to reach me: you can mail at sohambanik11@gmail.com.
 
 <!---

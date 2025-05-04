@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @coolsoham
+- 👋 Hi, I’m soham
 - 👀 I’m interested in coding
 - 💞️ I’m looking to collaborate on web developement project 
 - 📫 How to reach me: you can mail at sohambanik11@gmail.com.
